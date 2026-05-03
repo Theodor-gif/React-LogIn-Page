@@ -27,8 +27,6 @@
 > AI assistance provided by [Claude](https://claude.ai) (Anthropic) for:
 + Confirm and understand if I am in correct path.
 
-### Live Demo
-> [Watch here](https://theodor-gif.github.io/Spaceship-Battle-Game/)
 
 ***
 
