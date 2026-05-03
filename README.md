@@ -1,3 +1,5 @@
+
+
 # React-LogIn-Page
 
 ### This is my first project with React vite.
@@ -31,5 +33,3 @@
 ***
 
 ![homescreen](src/assets/Screenshot-LogIn.png)
-
-![homescreen](./Images/Screenshot-Game.png)
