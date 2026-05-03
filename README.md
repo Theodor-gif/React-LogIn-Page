@@ -30,5 +30,6 @@
 
 ***
 
-
 ![homescreen](src/assets/Screenshot-LogIn.png)
+
+![homescreen](./Images/Screenshot-Game.png)
