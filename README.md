@@ -1,16 +1,34 @@
-# React + Vite
+# React-LogIn-Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### This is my first project with React vite.
+> The project was to create a game using useState and onChange.
 
-Currently, two official plugins are available:
+> Practicing how to use those two.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+> Combining together with my creativity.
 
-## React Compiler
+***
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### My Project
+> My project is a basic Log In board.
 
-## Expanding the ESLint configuration
+> The user can write Name, Email, Password and Mobile.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> The Goals of this :
+ + User write the information and when you press the button to print down.
+***
+
+### Technologies Used
+> React vite | CSS3 | JavaScript
+
+### Acknowledgements
+> AI assistance provided by [Claude](https://claude.ai) (Anthropic) for:
++ Confirm and understand if I am in correct path.
+
+### Live Demo
+> [Watch here](https://theodor-gif.github.io/Spaceship-Battle-Game/)
+
+***
+
+
+![homescreen](./Images/Screenshot-Game.png)
