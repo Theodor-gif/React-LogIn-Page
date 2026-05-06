@@ -3,7 +3,7 @@
 # React-LogIn-Page
 
 ### This is my first project with React vite.
-> The project was to create a game using useState and onChange.
+> The project was to create a page using useState and onChange.
 
 > Practicing how to use those two.
 
